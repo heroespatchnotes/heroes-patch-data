@@ -1405,14 +1405,14 @@
   {
     "internalId": "patch-notes-november-14-2017",
     "patchName": "Alexstrasza Patch",
-    "officialLink": null,
+    "officialLink": "http://us.battle.net/heroes/en/blog/21182210",
     "patchType": "Patch Notes",
     "gameVersion": "29.0",
-    "fullVersion": null,
+    "fullVersion": "2.29.0.59657",
     "ptrOfficialLink": "http://us.battle.net/heroes/en/blog/21179026",
     "ptrDate": "2017-11-06",
     "ptrBuild": "59279",
     "liveDate": "2017-11-14",
-    "liveBuild": null
+    "liveBuild": "59657"
   }
 ]
