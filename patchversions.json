@@ -1414,5 +1414,18 @@
     "ptrBuild": "59279",
     "liveDate": "2017-11-14",
     "liveBuild": "59657"
+  },
+  {
+    "internal_id": "patch-notes-december-12-2017",
+    "patch_name": "Hanzo Patch",
+    "official_link": null,
+    "patch_type": "Patch Notes",
+    "game_version": "29.2",
+    "full_version": null,
+    "ptr_official_link": "http://us.battle.net/heroes/en/blog/21194320",
+    "ptr_date": "2017-11-20",
+    "ptr_build": "59837",
+    "live_date": "2017-12-12",
+    "live_build": null
   }
 ]
