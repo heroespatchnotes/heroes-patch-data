@@ -1426,6 +1426,16 @@
     "live_build": "59799"
   },
   {
+    "internalId": "balance-update-notes-november-29-2017",
+    "patchName": "Alexstrasza Balance Patch",
+    "officialLink": "http://us.battle.net/heroes/en/blog/21273597",
+    "patchType": "Balance Update",
+    "gameVersion": "29.2",
+    "fullVersion": "2.29.2.59988",
+    "liveDate": "2017-11-29",
+    "liveBuild": "59988"
+  },
+  {
     "internal_id": "patch-notes-december-12-2017",
     "patch_name": "Hanzo Patch",
     "official_link": null,
