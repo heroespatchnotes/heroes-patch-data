@@ -1453,5 +1453,16 @@
     "ptrSecondBalanceBuild": "60228",
     "liveDate": "2017-12-12",
     "liveBuild": "60339"
+  },
+  {
+    "internalId": "hotfix-patch-notes-december-13-2017",
+    "patchName": "Hanzo Hotfix Patch",
+    "officialLink": null,
+    "alternateLink": "https://blizztrack.com/patch_notes/heroes_of_the_storm/60522",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "29.4",
+    "fullVersion": "2.29.4.60522",
+    "liveDate": "2017-12-13",
+    "liveBuild": "60522"
   }
 ]
