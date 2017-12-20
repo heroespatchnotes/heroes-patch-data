@@ -1464,5 +1464,15 @@
     "fullVersion": "2.29.4.60522",
     "liveDate": "2017-12-13",
     "liveBuild": "60522"
+  },
+  {
+    "internalId": "balance-update-notes-december-20-2017",
+    "patchName": "Hanzo Balance Patch",
+    "officialLink": "http://us.battle.net/heroes/en/blog/21338595",
+    "patchType": "Balance Update",
+    "gameVersion": "29.5",
+    "fullVersion": "2.29.5.60632",
+    "liveDate": "2017-12-20",
+    "liveBuild": "60632"
   }
 ]
