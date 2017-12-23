@@ -1456,7 +1456,7 @@
   },
   {
     "internalId": "hotfix-patch-notes-december-13-2017",
-    "patchName": "Hanzo Hotfix Patch",
+    "patchName": "Hanzo Hotfix Patch #1",
     "officialLink": null,
     "alternateLink": "https://blizztrack.com/patch_notes/heroes_of_the_storm/60522",
     "patchType": "Hotfix Patch",
@@ -1474,5 +1474,16 @@
     "fullVersion": "2.29.5.60632",
     "liveDate": "2017-12-20",
     "liveBuild": "60632"
+  },
+  {
+    "internalId": "hotfix-patch-notes-december-22-2017",
+    "patchName": "Hanzo Hotfix Patch #2",
+    "officialLink": null,
+    "alternateLink": "https://blizztrack.com/patch_notes/heroes_of_the_storm/60821",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "29.6",
+    "fullVersion": "2.29.6.60821",
+    "liveDate": "2017-12-22",
+    "liveBuild": "60821"
   }
 ]
