@@ -1485,5 +1485,18 @@
     "fullVersion": "2.29.6.60821",
     "liveDate": "2017-12-22",
     "liveBuild": "60821"
+  },
+  {
+    "internalId": "patch-notes-january-9-2018",
+    "patchName": "Blaze Patch",
+    "officialLink": null,
+    "patchType": "Patch Notes",
+    "gameVersion": "29.7",
+    "fullVersion": null,
+    "ptrOfficialLink": "http://us.battle.net/heroes/en/blog/21353256",
+    "ptrDate": "2018-01-02",
+    "ptrBuild": "60567",
+    "liveDate": "2018-01-09",
+    "liveBuild": null
   }
 ]
