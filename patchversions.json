@@ -1489,14 +1489,14 @@
   {
     "internalId": "patch-notes-january-9-2018",
     "patchName": "Blaze Patch",
-    "officialLink": null,
+    "officialLink": "http://us.battle.net/heroes/en/blog/21349574",
     "patchType": "Patch Notes",
     "gameVersion": "29.7",
-    "fullVersion": null,
+    "fullVersion": "2.29.7.61129",
     "ptrOfficialLink": "http://us.battle.net/heroes/en/blog/21353256",
     "ptrDate": "2018-01-02",
     "ptrBuild": "60567",
     "liveDate": "2018-01-09",
-    "liveBuild": null
+    "liveBuild": "61129"
   }
 ]
