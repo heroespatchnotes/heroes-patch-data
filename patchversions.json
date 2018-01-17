@@ -1498,5 +1498,15 @@
     "ptrBuild": "60567",
     "liveDate": "2018-01-09",
     "liveBuild": "61129"
+  },
+  {
+    "internalId": "patch-notes-january-9-2018",
+    "patchName": "Tyrael Rework Patch",
+    "officialLink": "http://us.battle.net/heroes/en/blog/21349578",
+    "patchType": "Patch Notes",
+    "gameVersion": "29.8",
+    "fullVersion": "2.29.8.61361",
+    "liveDate": "2018-01-16",
+    "liveBuild": "61361"
   }
 ]
