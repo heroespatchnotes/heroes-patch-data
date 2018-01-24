@@ -1508,5 +1508,15 @@
     "fullVersion": "2.29.8.61361",
     "liveDate": "2018-01-16",
     "liveBuild": "61361"
+  },
+  {
+    "internalId": "balance-update-notes-january-24-2018",
+    "patchName": "Blaze Balance Patch",
+    "officialLink": "http://us.battle.net/heroes/en/blog/21464985",
+    "patchType": "Balance Update",
+    "gameVersion": "29.9",
+    "fullVersion": "2.29.9.61552",
+    "liveDate": "2018-01-24",
+    "liveBuild": "61552"
   }
 ]
