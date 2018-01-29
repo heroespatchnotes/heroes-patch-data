@@ -1518,5 +1518,18 @@
     "fullVersion": "2.29.9.61552",
     "liveDate": "2018-01-24",
     "liveBuild": "61552"
+  },
+  {
+    "internalId": "patch-notes-february-6-2018",
+    "patchName": "Maiev Patch",
+    "officialLink": null,
+    "patchType": "Patch Notes",
+    "gameVersion": "30.0",
+    "fullVersion": null,
+    "ptrOfficialLink": "https://us.battle.net/heroes/en/blog/21387327",
+    "ptrDate": "2018-01-29",
+    "ptrBuild": "61718",
+    "liveDate": "2018-02-06",
+    "liveBuild": null
   }
 ]
