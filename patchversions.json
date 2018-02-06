@@ -1522,14 +1522,14 @@
   {
     "internalId": "patch-notes-february-6-2018",
     "patchName": "Maiev Patch",
-    "officialLink": null,
+    "officialLink": "https://us.battle.net/heroes/en/blog/21509171",
     "patchType": "Patch Notes",
     "gameVersion": "30.0",
-    "fullVersion": null,
+    "fullVersion": "2.30.0.61952",
     "ptrOfficialLink": "https://us.battle.net/heroes/en/blog/21387327",
     "ptrDate": "2018-01-29",
     "ptrBuild": "61718",
     "liveDate": "2018-02-06",
-    "liveBuild": null
+    "liveBuild": "61952"
   }
 ]
