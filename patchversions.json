@@ -1534,7 +1534,7 @@
   },
   {
     "internalId": "balance-update-notes-february-9-2018",
-    "patchName": "Maiev Balance Patch",
+    "patchName": "Maiev Balance Patch #1",
     "officialLink": "https://us.battle.net/heroes/en/blog/21508378",
     "patchType": "Balance Update",
     "gameVersion": "30.1",
@@ -1551,5 +1551,15 @@
     "fullVersion": "2.30.2.62212",
     "liveDate": "2018-02-14",
     "liveBuild": "62212"
+  },
+  {
+    "internalId": "balance-update-notes-february-21-2018",
+    "patchName": "Maiev Balance Patch #2",
+    "officialLink": "https://us.battle.net/heroes/en/blog/21535475",
+    "patchType": "Balance Update",
+    "gameVersion": "30.3",
+    "fullVersion": "2.30.3.62424",
+    "liveDate": "2018-02-21",
+    "liveBuild": "62424"
   }
 ]
