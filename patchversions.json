@@ -1561,5 +1561,18 @@
     "fullVersion": "2.30.3.62424",
     "liveDate": "2018-02-21",
     "liveBuild": "62424"
+  },
+  {
+    "internalId": "patch-notes-march-6-2018",
+    "patchName": "Medivh and Sonya Rework Patch",
+    "officialLink": null,
+    "patchType": "Patch Notes",
+    "gameVersion": "30.4",
+    "fullVersion": null,
+    "ptrOfficialLink": "https://us.battle.net/heroes/en/blog/21509414",
+    "ptrDate": "2018-02-26",
+    "ptrBuild": "62548",
+    "liveDate": "2018-03-06",
+    "liveBuild": null
   }
 ]
