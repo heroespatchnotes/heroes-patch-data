@@ -1544,7 +1544,7 @@
   },
   {
     "internalId": "hotfix-patch-notes-february-14-2018",
-    "patchName": "Maiev Hotfix Patch",
+    "patchName": "Maiev Hotfix Patch #1",
     "officialLink": "https://us.battle.net/heroes/en/blog/21514203",
     "patchType": "Hotfix Patch",
     "gameVersion": "30.2",
@@ -1565,14 +1565,24 @@
   {
     "internalId": "patch-notes-march-6-2018",
     "patchName": "Medivh and Sonya Rework Patch",
-    "officialLink": null,
+    "officialLink": "https://us.battle.net/heroes/en/blog/21594628",
     "patchType": "Patch Notes",
     "gameVersion": "30.4",
-    "fullVersion": null,
+    "fullVersion": "2.30.4.62833",
     "ptrOfficialLink": "https://us.battle.net/heroes/en/blog/21509414",
     "ptrDate": "2018-02-26",
     "ptrBuild": "62548",
     "liveDate": "2018-03-06",
-    "liveBuild": null
+    "liveBuild": "62833"
+  },
+  {
+    "internalId": "hotfix-patch-notes-march-9-2018",
+    "patchName": "Maiev Hotfix Patch #2",
+    "officialLink": "https://us.battle.net/heroes/en/blog/21612976",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "30.5",
+    "fullVersion": "2.30.5.63070",
+    "liveDate": "2018-03-09",
+    "liveBuild": "63070"
   }
 ]
