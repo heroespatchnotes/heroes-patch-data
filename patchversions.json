@@ -1584,5 +1584,18 @@
     "fullVersion": "2.30.5.63070",
     "liveDate": "2018-03-09",
     "liveBuild": "63070"
+  },
+  {
+    "internalId": "patch-notes-march-27-2018",
+    "patchName": "Fenix Patch",
+    "officialLink": null,
+    "patchType": "Patch Notes",
+    "gameVersion": "31.0",
+    "fullVersion": null,
+    "ptrOfficialLink": "https://us.battle.net/heroes/en/blog/21594629",
+    "ptrDate": "2018-03-19",
+    "ptrBuild": "63203",
+    "liveDate": "2018-03-27",
+    "liveBuild": null
   }
 ]
