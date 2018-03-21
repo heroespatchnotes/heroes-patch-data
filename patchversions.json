@@ -1586,6 +1586,16 @@
     "liveBuild": "63070"
   },
   {
+    "internalId": "balance-update-notes-march-21-2018",
+    "patchName": "Maiev Balance Patch #3",
+    "officialLink": "https://us.battle.net/heroes/en/blog/21637154",
+    "patchType": "Balance Update",
+    "gameVersion": "30.6",
+    "fullVersion": "2.30.6.63402",
+    "liveDate": "2018-03-21",
+    "liveBuild": "63402"
+  },
+  {
     "internalId": "patch-notes-march-27-2018",
     "patchName": "Fenix Patch",
     "officialLink": null,
