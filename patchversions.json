@@ -1607,5 +1607,15 @@
     "ptrBuild": "63203",
     "liveDate": "2018-03-27",
     "liveBuild": "63507"
+  },
+  {
+    "internalId": "hotfix-patch-notes-march-30-2018",
+    "patchName": "Fenix Hotfix Patch",
+    "officialLink": "https://us.battle.net/heroes/en/blog/21670794",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "31.1",
+    "fullVersion": "2.31.1.63635",
+    "liveDate": "2018-03-30",
+    "liveBuild": "63635"
   }
 ]
