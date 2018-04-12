@@ -1617,5 +1617,15 @@
     "fullVersion": "2.31.1.63635",
     "liveDate": "2018-03-30",
     "liveBuild": "63635"
+  },
+  {
+    "internalId": "balance-update-notes-april-11-2018",
+    "patchName": "Fenix Balance Patch",
+    "officialLink": "https://us.battle.net/heroes/en/blog/21656682",
+    "patchType": "Balance Update",
+    "gameVersion": "31.2",
+    "fullVersion": "2.31.2.64100",
+    "liveDate": "2018-04-11",
+    "liveBuild": "64100"
   }
 ]
