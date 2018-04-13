@@ -1610,7 +1610,7 @@
   },
   {
     "internalId": "hotfix-patch-notes-march-30-2018",
-    "patchName": "Fenix Hotfix Patch",
+    "patchName": "Fenix Hotfix Patch #1",
     "officialLink": "https://us.battle.net/heroes/en/blog/21670794",
     "patchType": "Hotfix Patch",
     "gameVersion": "31.1",
@@ -1627,5 +1627,16 @@
     "fullVersion": "2.31.2.64100",
     "liveDate": "2018-04-11",
     "liveBuild": "64100"
+  },
+  {
+    "internalId": "hotfix-patch-notes-april-12-2018",
+    "patchName": "Fenix Hotfix Patch #2",
+    "officialLink": null,
+    "alternateLink": "https://blizztrack.com/patch_notes/heroes_of_the_storm/64129",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "31.3",
+    "fullVersion": "2.31.3.64129",
+    "liveDate": "2018-04-12",
+    "liveBuild": "64129"
   }
 ]
