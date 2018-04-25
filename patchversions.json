@@ -1642,14 +1642,14 @@
   {
     "internalId": "patch-notes-april-24-2018",
     "patchName": "Deckard Patch",
-    "officialLink": null,
+    "officialLink": "https://us.battle.net/heroes/en/blog/21719349",
     "patchType": "Patch Notes",
     "gameVersion": "32.0",
-    "fullVersion": null,
+    "fullVersion": "2.32.0.64455",
     "ptrOfficialLink": "https://us.battle.net/heroes/en/blog/21671838",
     "ptrDate": "2018-04-16",
     "ptrBuild": "64255",
     "liveDate": "2018-04-24",
-    "liveBuild": null
+    "liveBuild": "64455"
   }
 ]
