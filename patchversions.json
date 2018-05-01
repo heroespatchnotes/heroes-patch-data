@@ -1651,5 +1651,15 @@
     "ptrBuild": "64255",
     "liveDate": "2018-04-24",
     "liveBuild": "64455"
+  },
+  {
+    "internalId": "hotfix-patch-notes-may-1-2018",
+    "patchName": "Deckard Hotfix Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/21702123",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "32.1",
+    "fullVersion": "2.32.1.64657",
+    "liveDate": "2018-05-01",
+    "liveBuild": "64657"
   }
 ]
