@@ -1661,5 +1661,15 @@
     "fullVersion": "2.32.1.64657",
     "liveDate": "2018-05-01",
     "liveBuild": "64657"
+  },
+  {
+    "internalId": "balance-update-notes-may-9-2018",
+    "patchName": "Deckard Balance Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/21749146",
+    "patchType": "Balance Update",
+    "gameVersion": "32.2",
+    "fullVersion": "2.32.2.64863",
+    "liveDate": "2018-05-09",
+    "liveBuild": "64863"
   }
 ]
