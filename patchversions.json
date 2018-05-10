@@ -1654,7 +1654,7 @@
   },
   {
     "internalId": "hotfix-patch-notes-may-1-2018",
-    "patchName": "Deckard Hotfix Patch",
+    "patchName": "Deckard Hotfix Patch #1",
     "officialLink": "https://heroesofthestorm.com/en-us/blog/21702123",
     "patchType": "Hotfix Patch",
     "gameVersion": "32.1",
@@ -1671,5 +1671,16 @@
     "fullVersion": "2.32.2.64863",
     "liveDate": "2018-05-09",
     "liveBuild": "64863"
+  },
+  {
+    "internalId": "hotfix-patch-notes-may-10-2018",
+    "patchName": "Deckard Hotfix Patch #2",
+    "officialLink": null,
+    "alternateLink": "https://blizztrack.com/patch_notes/heroes_of_the_storm/65006",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "32.3",
+    "fullVersion": "2.32.3.65006",
+    "liveDate": "2018-05-10",
+    "liveBuild": "65006"
   }
 ]
