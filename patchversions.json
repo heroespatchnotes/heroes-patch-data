@@ -1686,14 +1686,14 @@
   {
     "internalId": "patch-notes-may-22-2018",
     "patchName": "Diablo and Lunara Rework Patch",
-    "officialLink": null,
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/21788602",
     "patchType": "Patch Notes",
     "gameVersion": "33.0",
-    "fullVersion": null,
+    "fullVersion": "2.33.0.65285",
     "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/21749145",
     "ptrDate": "2018-05-14",
     "ptrBuild": "65054",
     "liveDate": "2018-05-22",
-    "liveBuild": null
+    "liveBuild": "65285"
   }
 ]
