@@ -1695,5 +1695,18 @@
     "ptrBuild": "65054",
     "liveDate": "2018-05-22",
     "liveBuild": "65285"
+  },
+  {
+    "internalId": "patch-notes-june-12-2018",
+    "patchName": "Yrel Patch",
+    "officialLink": null,
+    "patchType": "Patch Notes",
+    "gameVersion": "34.0",
+    "fullVersion": null,
+    "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/21795071",
+    "ptrDate": "2018-06-04",
+    "ptrBuild": "65579",
+    "liveDate": "2018-06-12",
+    "liveBuild": null
   }
 ]
