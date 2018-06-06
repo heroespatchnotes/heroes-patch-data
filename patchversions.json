@@ -1664,7 +1664,7 @@
   },
   {
     "internalId": "balance-update-notes-may-9-2018",
-    "patchName": "Deckard Balance Patch",
+    "patchName": "Deckard Balance Patch #1",
     "officialLink": "https://heroesofthestorm.com/en-us/blog/21749146",
     "patchType": "Balance Update",
     "gameVersion": "32.2",
@@ -1695,6 +1695,16 @@
     "ptrBuild": "65054",
     "liveDate": "2018-05-22",
     "liveBuild": "65285"
+  },
+  {
+    "internalId": "balance-update-notes-june-6-2018",
+    "patchName": "Deckard Balance Patch #2",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/21791354",
+    "patchType": "Balance Update",
+    "gameVersion": "33.1",
+    "fullVersion": "2.33.1.65617",
+    "liveDate": "2018-06-06",
+    "liveBuild": "65617"
   },
   {
     "internalId": "patch-notes-june-12-2018",
