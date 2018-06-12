@@ -1709,14 +1709,14 @@
   {
     "internalId": "patch-notes-june-12-2018",
     "patchName": "Yrel Patch",
-    "officialLink": null,
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/21849060",
     "patchType": "Patch Notes",
     "gameVersion": "34.0",
-    "fullVersion": null,
+    "fullVersion": "2.34.0.65751",
     "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/21795071",
     "ptrDate": "2018-06-04",
     "ptrBuild": "65579",
     "liveDate": "2018-06-12",
-    "liveBuild": null
+    "liveBuild": "65751"
   }
 ]
