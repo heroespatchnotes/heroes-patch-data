@@ -1718,5 +1718,15 @@
     "ptrBuild": "65579",
     "liveDate": "2018-06-12",
     "liveBuild": "65751"
+  },
+  {
+    "internalId": "hotfix-patch-notes-june-12-2018",
+    "patchName": "Yrel Hotfix Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/21849060",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "34.1",
+    "fullVersion": "2.34.1.65846",
+    "liveDate": "2018-06-12",
+    "liveBuild": "65846"
   }
 ]
