@@ -1721,12 +1721,22 @@
   },
   {
     "internalId": "hotfix-patch-notes-june-12-2018",
-    "patchName": "Yrel Hotfix Patch",
+    "patchName": "Yrel Hotfix Patch #1",
     "officialLink": "https://heroesofthestorm.com/en-us/blog/21849060",
     "patchType": "Hotfix Patch",
     "gameVersion": "34.1",
     "fullVersion": "2.34.1.65846",
     "liveDate": "2018-06-12",
     "liveBuild": "65846"
+  },
+  {
+    "internalId": "hotfix-patch-notes-june-15-2018",
+    "patchName": "Yrel Hotfix Patch #2",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/21867179",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "34.2",
+    "fullVersion": "2.34.2.65943",
+    "liveDate": "2018-06-15",
+    "liveBuild": "65943"
   }
 ]
