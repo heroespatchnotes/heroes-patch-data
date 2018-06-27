@@ -1738,5 +1738,15 @@
     "fullVersion": "2.34.2.65943",
     "liveDate": "2018-06-15",
     "liveBuild": "65943"
+  },
+  {
+    "internalId": "balance-update-notes-june-27-2018",
+    "patchName": "Yrel Balance Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/21905928",
+    "patchType": "Balance Update",
+    "gameVersion": "34.3",
+    "fullVersion": "2.34.3.66182",
+    "liveDate": "2018-06-27",
+    "liveBuild": "66182"
   }
 ]
