@@ -1748,5 +1748,18 @@
     "fullVersion": "2.34.3.66182",
     "liveDate": "2018-06-27",
     "liveBuild": "66182"
+  },
+  {
+    "internalId": "patch-notes-july-10-2018",
+    "patchName": "Azmodan and Raynor Rework Patch",
+    "officialLink": null,
+    "patchType": "Patch Notes",
+    "gameVersion": "35.0",
+    "fullVersion": null,
+    "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/21907096",
+    "ptrDate": "2018-07-02",
+    "ptrBuild": "66292",
+    "liveDate": "2018-07-10",
+    "liveBuild": null
   }
 ]
