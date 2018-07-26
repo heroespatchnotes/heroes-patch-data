@@ -1741,7 +1741,7 @@
   },
   {
     "internalId": "balance-update-notes-june-27-2018",
-    "patchName": "Yrel Balance Patch",
+    "patchName": "Yrel Balance Patch #1",
     "officialLink": "https://heroesofthestorm.com/en-us/blog/21905928",
     "patchType": "Balance Update",
     "gameVersion": "34.3",
@@ -1761,5 +1761,15 @@
     "ptrBuild": "66292",
     "liveDate": "2018-07-10",
     "liveBuild": "66488"
+  },
+  {
+    "internalId": "balance-update-notes-july-25-2018",
+    "patchName": "Yrel Balance Patch #2",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/21971413",
+    "patchType": "Balance Update",
+    "gameVersion": "35.1",
+    "fullVersion": "2.35.1.66810",
+    "liveDate": "2018-07-26",
+    "liveBuild": "66810"
   }
 ]
