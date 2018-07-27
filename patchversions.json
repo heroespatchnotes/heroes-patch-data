@@ -1771,5 +1771,16 @@
     "fullVersion": "2.35.1.66810",
     "liveDate": "2018-07-26",
     "liveBuild": "66810"
+  },
+  {
+    "internalId": "hotfix-patch-notes-july-27-2018",
+    "patchName": "Yrel Hotfix Patch #3",
+    "officialLink": null,
+    "alternateLink": "https://blizztrack.com/patch_notes/heroes_of_the_storm/66946",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "35.2",
+    "fullVersion": "2.35.2.66946",
+    "liveDate": "2018-07-27",
+    "liveBuild": "66946"
   }
 ]
