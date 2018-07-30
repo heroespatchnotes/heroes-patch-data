@@ -1782,5 +1782,18 @@
     "fullVersion": "2.35.2.66946",
     "liveDate": "2018-07-27",
     "liveBuild": "66946"
+  },
+  {
+    "internalId": "patch-notes-august-7-2018",
+    "patchName": "Whitemane Patch",
+    "officialLink": null,
+    "patchType": "Patch Notes",
+    "gameVersion": "36.0",
+    "fullVersion": null,
+    "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/21971414",
+    "ptrDate": "2018-07-30",
+    "ptrBuild": "66977",
+    "liveDate": "2018-08-07",
+    "liveBuild": null
   }
 ]
