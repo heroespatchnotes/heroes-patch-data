@@ -1795,5 +1795,15 @@
     "ptrBuild": "66977",
     "liveDate": "2018-08-07",
     "liveBuild": "67143"
+  },
+  {
+    "internalId": "hotfix-patch-notes-august-16-2018",
+    "patchName": "Whitemane Hotfix Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22298419",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "36.1",
+    "fullVersion": "2.36.1.67462",
+    "liveDate": "2018-08-16",
+    "liveBuild": "67462"
   }
 ]
