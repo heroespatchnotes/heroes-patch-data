@@ -1805,5 +1805,15 @@
     "fullVersion": "2.36.1.67462",
     "liveDate": "2018-08-16",
     "liveBuild": "67462"
+  },
+  {
+    "internalId": "balance-update-notes-august-22-2018",
+    "patchName": "Whitemane Balance Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22358469",
+    "patchType": "Balance Update",
+    "gameVersion": "36.2",
+    "fullVersion": "2.36.2.67621",
+    "liveDate": "2018-08-22",
+    "liveBuild": "67621"
   }
 ]
