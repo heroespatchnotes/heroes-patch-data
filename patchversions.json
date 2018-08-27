@@ -1815,5 +1815,18 @@
     "fullVersion": "2.36.2.67621",
     "liveDate": "2018-08-22",
     "liveBuild": "67621"
+  },
+  {
+    "internalId": "patch-notes-september-4-2018",
+    "patchName": "Mephisto Patch",
+    "officialLink": null,
+    "patchType": "Patch Notes",
+    "gameVersion": "37.0",
+    "fullVersion": null,
+    "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/22358471",
+    "ptrDate": "2018-08-27",
+    "ptrBuild": "67679",
+    "liveDate": "2018-09-04",
+    "liveBuild": null
   }
 ]
