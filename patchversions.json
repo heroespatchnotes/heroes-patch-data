@@ -1819,14 +1819,14 @@
   {
     "internalId": "patch-notes-september-4-2018",
     "patchName": "Mephisto Patch",
-    "officialLink": null,
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22448179",
     "patchType": "Patch Notes",
     "gameVersion": "37.0",
-    "fullVersion": null,
+    "fullVersion": "2.37.0.67985",
     "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/22358471",
     "ptrDate": "2018-08-27",
     "ptrBuild": "67679",
     "liveDate": "2018-09-04",
-    "liveBuild": null
+    "liveBuild": "67985"
   }
 ]
