@@ -1828,5 +1828,18 @@
     "ptrBuild": "67679",
     "liveDate": "2018-09-04",
     "liveBuild": "67985"
+  },
+  {
+    "internalId": "patch-notes-september-25-2018",
+    "patchName": "Brightwing and Kerrigan Rework Patch",
+    "officialLink": null,
+    "patchType": "Patch Notes",
+    "gameVersion": "38.0",
+    "fullVersion": null,
+    "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/22484228",
+    "ptrDate": "2018-09-17",
+    "ptrBuild": "68406",
+    "liveDate": "2018-09-25",
+    "liveBuild": null
   }
 ]
