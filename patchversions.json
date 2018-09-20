@@ -1830,6 +1830,16 @@
     "liveBuild": "67985"
   },
   {
+    "internalId": "balance-update-notes-september-19-2018",
+    "patchName": "Mephisto Balance Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22484230",
+    "patchType": "Balance Update",
+    "gameVersion": "37.1",
+    "fullVersion": "2.37.1.68509",
+    "liveDate": "2018-09-19",
+    "liveBuild": "68509"
+  },
+  {
     "internalId": "patch-notes-september-25-2018",
     "patchName": "Brightwing and Kerrigan Rework Patch",
     "officialLink": null,
