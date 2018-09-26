@@ -1851,5 +1851,15 @@
     "ptrBuild": "68406",
     "liveDate": "2018-09-25",
     "liveBuild": "68740"
+  },
+  {
+    "internalId": "hotfix-patch-notes-september-26-2018",
+    "patchName": "Mephisto Hotfix Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22552046",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "38.1",
+    "fullVersion": "2.38.1.68778",
+    "liveDate": "2018-09-26",
+    "liveBuild": "68778"
   }
 ]
