@@ -1831,7 +1831,7 @@
   },
   {
     "internalId": "balance-update-notes-september-19-2018",
-    "patchName": "Mephisto Balance Patch",
+    "patchName": "Mephisto Balance Patch #1",
     "officialLink": "https://heroesofthestorm.com/en-us/blog/22484230",
     "patchType": "Balance Update",
     "gameVersion": "37.1",
@@ -1861,5 +1861,28 @@
     "fullVersion": "2.38.1.68778",
     "liveDate": "2018-09-26",
     "liveBuild": "68778"
+  },
+  {
+    "internalId": "balance-update-notes-october-10-2018",
+    "patchName": "Mephisto Balance Patch #2",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22547649",
+    "patchType": "Balance Update",
+    "gameVersion": "38.2",
+    "fullVersion": null,
+    "liveDate": "2018-10-10",
+    "liveBuild": null
+  },
+  {
+    "internalId": "patch-notes-october-16-2018",
+    "patchName": "Mal'Ganis Patch",
+    "officialLink": null,
+    "patchType": "Patch Notes",
+    "gameVersion": "39.0",
+    "fullVersion": null,
+    "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/22547648",
+    "ptrDate": "2018-10-08",
+    "ptrBuild": "69099",
+    "liveDate": "2018-10-16",
+    "liveBuild": null
   }
 ]
