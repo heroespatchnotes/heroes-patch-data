@@ -1854,7 +1854,7 @@
   },
   {
     "internalId": "hotfix-patch-notes-september-26-2018",
-    "patchName": "Mephisto Hotfix Patch",
+    "patchName": "Mephisto Hotfix Patch #1",
     "officialLink": "https://heroesofthestorm.com/en-us/blog/22552046",
     "patchType": "Hotfix Patch",
     "gameVersion": "38.1",
@@ -1873,16 +1873,26 @@
     "liveBuild": "69185"
   },
   {
+    "internalId": "hotfix-patch-notes-october-11-2018",
+    "patchName": "Mephisto Hotfix Patch #2",
+    "officialLink": null,
+    "patchType": "Hotfix Patch",
+    "gameVersion": "38.3",
+    "fullVersion": "2.38.3.69264",
+    "liveDate": "2018-10-11",
+    "liveBuild": "69264"
+  },
+  {
     "internalId": "patch-notes-october-16-2018",
     "patchName": "Mal'Ganis Patch",
-    "officialLink": null,
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22548919",
     "patchType": "Patch Notes",
     "gameVersion": "39.0",
-    "fullVersion": null,
+    "fullVersion": "2.39.0.69350",
     "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/22547648",
     "ptrDate": "2018-10-08",
     "ptrBuild": "69099",
     "liveDate": "2018-10-16",
-    "liveBuild": null
+    "liveBuild": "69350"
   }
 ]
