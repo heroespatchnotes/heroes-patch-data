@@ -1894,5 +1894,15 @@
     "ptrBuild": "69099",
     "liveDate": "2018-10-16",
     "liveBuild": "69350"
+  },
+  {
+    "internalId": "hotfix-patch-notes-october-26-2018",
+    "patchName": "Mal'Ganis Hotfix Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22630027",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "39.1",
+    "fullVersion": "2.39.1.69790",
+    "liveDate": "2018-10-26",
+    "liveBuild": "69790"
   }
 ]
