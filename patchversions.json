@@ -1904,5 +1904,15 @@
     "fullVersion": "2.39.1.69790",
     "liveDate": "2018-10-26",
     "liveBuild": "69790"
+  },
+  {
+    "internalId": "balance-update-notes-october-31-2018",
+    "patchName": "Mal'Ganis Balance Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22636768",
+    "patchType": "Balance Update",
+    "gameVersion": "39.2",
+    "fullVersion": "2.39.2.69823",
+    "liveDate": "2018-10-31",
+    "liveBuild": "69823"
   }
 ]
