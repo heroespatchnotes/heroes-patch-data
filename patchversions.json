@@ -1918,14 +1918,14 @@
   {
     "internalId": "patch-notes-november-13-2018",
     "patchName": "Orphea Patch",
-    "officialLink": null,
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22647956",
     "patchType": "Patch Notes",
     "gameVersion": "40.0",
-    "fullVersion": null,
+    "fullVersion": "2.40.0.70200",
     "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/22636771",
     "ptrDate": "2018-11-05",
     "ptrBuild": "69947",
     "liveDate": "2018-11-13",
-    "liveBuild": null
+    "liveBuild": "70200"
   }
 ]
