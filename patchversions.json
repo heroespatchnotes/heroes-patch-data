@@ -1927,5 +1927,15 @@
     "ptrBuild": "69947",
     "liveDate": "2018-11-13",
     "liveBuild": "70200"
+  },
+  {
+    "internalId": "balance-update-notes-november-28-2018",
+    "patchName": "Orphea Balance Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22791352",
+    "patchType": "Balance Update",
+    "gameVersion": "40.1",
+    "fullVersion": "2.40.1.70616",
+    "liveDate": "2018-11-28",
+    "liveBuild": "70616"
   }
 ]
