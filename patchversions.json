@@ -1941,14 +1941,14 @@
   {
     "internalId": "patch-notes-december-11-2018",
     "patchName": "Stitches and Sylvanas Rework Patch",
-    "officialLink": null,
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22821338",
     "patchType": "Patch Notes",
     "gameVersion": "41.0",
-    "fullVersion": null,
+    "fullVersion": "2.41.0.70920",
     "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/22791355",
     "ptrDate": "2018-12-03",
     "ptrBuild": "70682",
     "liveDate": "2018-12-11",
-    "liveBuild": null
+    "liveBuild": "70920"
   }
 ]
