@@ -1950,5 +1950,15 @@
     "ptrBuild": "70682",
     "liveDate": "2018-12-11",
     "liveBuild": "70920"
+  },
+  {
+    "internalId": "hotfix-patch-notes-december-13-2018",
+    "patchName": "Orphea Hotfix Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22819173",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "41.1",
+    "fullVersion": "2.41.1.71040",
+    "liveDate": "2018-12-13",
+    "liveBuild": "71040"
   }
 ]
