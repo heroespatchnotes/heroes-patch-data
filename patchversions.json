@@ -1930,7 +1930,7 @@
   },
   {
     "internalId": "balance-update-notes-november-28-2018",
-    "patchName": "Orphea Balance Patch",
+    "patchName": "Orphea Balance Patch #1",
     "officialLink": "https://heroesofthestorm.com/en-us/blog/22791352",
     "patchType": "Balance Update",
     "gameVersion": "40.1",
@@ -1960,5 +1960,15 @@
     "fullVersion": "2.41.1.71040",
     "liveDate": "2018-12-13",
     "liveBuild": "71040"
+  },
+  {
+    "internalId": "balance-update-notes-december-19-2018",
+    "patchName": "Orphea Balance Patch #2",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22819175",
+    "patchType": "Balance Update",
+    "gameVersion": "41.2",
+    "fullVersion": "2.41.2.71138",
+    "liveDate": "2018-12-19",
+    "liveBuild": "71138"
   }
 ]
