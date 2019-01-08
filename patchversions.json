@@ -1974,14 +1974,14 @@
   {
     "internalId": "patch-notes-january-8-2019",
     "patchName": "Imperius Patch",
-    "officialLink": null,
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22856152",
     "patchType": "Patch Notes",
     "gameVersion": "42.0",
-    "fullVersion": null,
+    "fullVersion": "2.42.0.71449",
     "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/22819178",
     "ptrDate": "2019-01-02",
     "ptrBuild": "71134",
     "liveDate": "2019-01-08",
-    "liveBuild": null
+    "liveBuild": "71449"
   }
 ]
