@@ -1983,5 +1983,15 @@
     "ptrBuild": "71134",
     "liveDate": "2019-01-08",
     "liveBuild": "71449"
+  },
+  {
+    "internalId": "balance-update-notes-january-23-2019",
+    "patchName": "Imperius Balance Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22863339",
+    "patchType": "Balance Update",
+    "gameVersion": "42.1",
+    "fullVersion": "2.42.1.71652",
+    "liveDate": "2019-01-23",
+    "liveBuild": "71652"
   }
 ]
