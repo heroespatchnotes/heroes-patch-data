@@ -1996,7 +1996,7 @@
   },
   {
     "internalId": "hotfix-patch-notes-january-31-2019",
-    "patchName": "Imperius Hotfix Patch",
+    "patchName": "Imperius Hotfix Patch #1",
     "officialLink": "https://heroesofthestorm.com/en-us/blog/22887051",
     "patchType": "Hotfix Patch",
     "gameVersion": "42.2",
@@ -2016,5 +2016,15 @@
     "ptrBuild": "72053",
     "liveDate": "2019-02-12",
     "liveBuild": "72191"
+  },
+  {
+    "internalId": "hotfix-patch-notes-february-15-2019",
+    "patchName": "Imperius Hotfix Patch #2",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22887058",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "43.1",
+    "fullVersion": "2.43.1.72307",
+    "liveDate": "2019-02-15",
+    "liveBuild": "72307"
   }
 ]
