@@ -1986,7 +1986,7 @@
   },
   {
     "internalId": "balance-update-notes-january-23-2019",
-    "patchName": "Imperius Balance Patch",
+    "patchName": "Imperius Balance Patch #1",
     "officialLink": "https://heroesofthestorm.com/en-us/blog/22863339",
     "patchType": "Balance Update",
     "gameVersion": "42.1",
@@ -2026,5 +2026,15 @@
     "fullVersion": "2.43.1.72307",
     "liveDate": "2019-02-15",
     "liveBuild": "72307"
+  },
+  {
+    "internalId": "balance-update-notes-february-27-2019",
+    "patchName": "Imperius Balance Patch #2",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22911361",
+    "patchType": "Balance Update",
+    "gameVersion": "43.2",
+    "fullVersion": "2.43.2.72481",
+    "liveDate": "2019-02-27",
+    "liveBuild": "72481"
   }
 ]
