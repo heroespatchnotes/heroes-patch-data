@@ -2036,5 +2036,15 @@
     "fullVersion": "2.43.2.72481",
     "liveDate": "2019-02-27",
     "liveBuild": "72481"
+  },
+  {
+    "internalId": "hotfix-patch-notes-march-7-2019",
+    "patchName": "Imperius Hotfix Patch #3",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22921912",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "43.3",
+    "fullVersion": "2.43.3.72649",
+    "liveDate": "2019-03-07",
+    "liveBuild": "72649"
   }
 ]
