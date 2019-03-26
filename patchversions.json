@@ -2050,14 +2050,14 @@
   {
     "internalId": "patch-notes-march-26-2019",
     "patchName": "Chromie and Lucio Rework Patch",
-    "officialLink": null,
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22933132",
     "patchType": "Patch Notes",
     "gameVersion": "44.0",
-    "fullVersion": null,
+    "fullVersion": "2.44.0.73016",
     "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/22933130",
     "ptrDate": "2019-03-18",
     "ptrBuild": "72880",
     "liveDate": "2019-03-26",
-    "liveBuild": null
+    "liveBuild": "73016"
   }
 ]
