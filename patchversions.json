@@ -2073,14 +2073,14 @@
   {
     "internalId": "patch-notes-april-30-2019",
     "patchName": "Anduin Patch",
-    "officialLink": null,
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22976064",
     "patchType": "Patch Notes",
     "gameVersion": "45.0",
-    "fullVersion": null,
+    "fullVersion": "2.45.0.73662",
     "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/22933140",
     "ptrDate": "2019-04-22",
     "ptrBuild": "73576",
     "liveDate": "2019-04-30",
-    "liveBuild": null
+    "liveBuild": "73662"
   }
 ]
