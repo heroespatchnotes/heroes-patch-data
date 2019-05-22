@@ -2082,5 +2082,15 @@
     "ptrBuild": "73576",
     "liveDate": "2019-04-30",
     "liveBuild": "73662"
+  },
+  {
+    "internalId": "balance-update-notes-may-22-2019",
+    "patchName": "Anduin Balance Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/22990045",
+    "patchType": "Balance Update",
+    "gameVersion": "45.1",
+    "fullVersion": "2.45.1.74238",
+    "liveDate": "2019-05-22",
+    "liveBuild": "74238"
   }
 ]
