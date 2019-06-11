@@ -2092,5 +2092,18 @@
     "fullVersion": "2.45.1.74238",
     "liveDate": "2019-05-22",
     "liveBuild": "74238"
+  },
+  {
+    "internalId": "patch-notes-june-18-2019",
+    "patchName": "Chen Rework Patch",
+    "officialLink": null,
+    "patchType": "Patch Notes",
+    "gameVersion": "46.0",
+    "fullVersion": null,
+    "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/23018655",
+    "ptrDate": "2019-06-10",
+    "ptrBuild": "74592",
+    "liveDate": "2019-06-18",
+    "liveBuild": null
   }
 ]
