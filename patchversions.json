@@ -2085,7 +2085,7 @@
   },
   {
     "internalId": "balance-update-notes-may-22-2019",
-    "patchName": "Anduin Balance Patch",
+    "patchName": "Anduin Balance Patch #1",
     "officialLink": "https://heroesofthestorm.com/en-us/blog/22990045",
     "patchType": "Balance Update",
     "gameVersion": "45.1",
@@ -2105,5 +2105,15 @@
     "ptrBuild": "74592",
     "liveDate": "2019-06-18",
     "liveBuild": "74739"
+  },
+  {
+    "internalId": "balance-update-notes-july-10-2019",
+    "patchName": "Anduin Balance Patch #2",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/23057727",
+    "patchType": "Balance Update",
+    "gameVersion": "46.1",
+    "fullVersion": "2.46.1.75132",
+    "liveDate": "2019-07-10",
+    "liveBuild": "75132"
   }
 ]
