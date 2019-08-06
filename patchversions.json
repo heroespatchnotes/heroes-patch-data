@@ -2115,5 +2115,18 @@
     "fullVersion": "2.46.1.75132",
     "liveDate": "2019-07-10",
     "liveBuild": "75132"
+  },
+  {
+    "internalId": "patch-notes-august-6-2019",
+    "patchName": "Qhira Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/23066828",
+    "patchType": "Patch Notes",
+    "gameVersion": "47.0",
+    "fullVersion": "2.47.0.75589",
+    "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/23066827",
+    "ptrDate": "2019-07-29",
+    "ptrBuild": "75484",
+    "liveDate": "2019-08-06",
+    "liveBuild": "75589"
   }
 ]
