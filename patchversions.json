@@ -2128,5 +2128,15 @@
     "ptrBuild": "75484",
     "liveDate": "2019-08-06",
     "liveBuild": "75589"
+  },
+  {
+    "internalId": "hotfix-patch-notes-august-14-2019",
+    "patchName": "Qhira Hotfix Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/23096767",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "47.1",
+    "fullVersion": "2.47.1.75792",
+    "liveDate": "2019-08-14",
+    "liveBuild": "75792"
   }
 ]
