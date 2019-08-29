@@ -2138,5 +2138,15 @@
     "fullVersion": "2.47.1.75792",
     "liveDate": "2019-08-14",
     "liveBuild": "75792"
+  },
+  {
+    "internalId": "balance-update-notes-august-28-2019",
+    "patchName": "Qhira Balance Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/23090872",
+    "patchType": "Balance Update",
+    "gameVersion": "47.2",
+    "fullVersion": "2.47.2.76003",
+    "liveDate": "2019-08-28",
+    "liveBuild": "76003"
   }
 ]
