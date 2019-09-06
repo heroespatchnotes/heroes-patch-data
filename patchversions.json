@@ -2131,7 +2131,7 @@
   },
   {
     "internalId": "hotfix-patch-notes-august-14-2019",
-    "patchName": "Qhira Hotfix Patch",
+    "patchName": "Qhira Hotfix Patch #1",
     "officialLink": "https://heroesofthestorm.com/en-us/blog/23096767",
     "patchType": "Hotfix Patch",
     "gameVersion": "47.1",
@@ -2148,5 +2148,15 @@
     "fullVersion": "2.47.2.76003",
     "liveDate": "2019-08-28",
     "liveBuild": "76003"
+  },
+  {
+    "internalId": "hotfix-patch-notes-september-5-2019",
+    "patchName": "Qhira Hotfix Patch #2",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/23114897",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "47.3",
+    "fullVersion": "2.47.3.76124",
+    "liveDate": "2019-09-05",
+    "liveBuild": "76124"
   }
 ]
