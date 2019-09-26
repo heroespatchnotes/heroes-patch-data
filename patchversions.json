@@ -2158,5 +2158,18 @@
     "fullVersion": "2.47.3.76124",
     "liveDate": "2019-09-05",
     "liveBuild": "76124"
+  },
+  {
+    "internalId": "patch-notes-september-24-2019",
+    "patchName": "Junkrat and Whitemane Rework Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/23157783",
+    "patchType": "Patch Notes",
+    "gameVersion": "48.0",
+    "fullVersion": "2.48.0.76389",
+    "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/23145200",
+    "ptrDate": "2019-09-16",
+    "ptrBuild": "76268",
+    "liveDate": "2019-09-24",
+    "liveBuild": "76389"
   }
 ]
