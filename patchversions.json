@@ -2171,5 +2171,16 @@
     "ptrBuild": "76268",
     "liveDate": "2019-09-24",
     "liveBuild": "76389"
+  },
+  {
+    "internalId": "hotfix-patch-notes-september-25-2019",
+    "patchName": "Qhira Hotfix Patch #3",
+    "officialLink": null,
+    "alternateLink": "https://www.reddit.com/r/heroesofthestorm/comments/d9nnah/patch_481_why_no_patchnotes/f1kkzos/",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "48.1",
+    "fullVersion": "2.48.1.76437",
+    "liveDate": "2019-09-25",
+    "liveBuild": "76437"
   }
 ]
