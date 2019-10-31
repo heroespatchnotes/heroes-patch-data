@@ -2192,5 +2192,15 @@
     "fullVersion": "2.48.2.76753",
     "liveDate": "2019-10-15",
     "liveBuild": "76753"
+  },
+  {
+    "internalId": "hotfix-patch-notes-october-22-2019",
+    "patchName": "Qhira Hotfix Patch #4",
+    "officialLink": "https://us.forums.blizzard.com/en/heroes/t/hotfix-patch-notes-october-22-2019/28109",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "48.2",
+    "fullVersion": "2.48.2.76893",
+    "liveDate": "2019-10-22",
+    "liveBuild": "76893"
   }
 ]
