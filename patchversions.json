@@ -2214,6 +2214,26 @@
     "liveBuild": "76893"
   },
   {
+    "internalId": "hotfix-patch-notes-november-12-2019",
+    "patchName": "Qhira Hotfix Patch #6",
+    "officialLink": "https://us.forums.blizzard.com/en/heroes/t/heroes-of-the-storm-patch-notes-november-12-2019/29099",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "48.3",
+    "fullVersion": "2.48.3.77205",
+    "liveDate": "2019-11-12",
+    "liveBuild": "77205"
+  },
+  {
+    "internalId": "balance-update-notes-november-22-2019",
+    "patchName": "Qhira Balance Patch #3",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/23227810",
+    "patchType": "Balance Update",
+    "gameVersion": "48.4",
+    "fullVersion": "2.48.4.77406",
+    "liveDate": "2019-11-22",
+    "liveBuild": "77406"
+  },
+  {
     "internalId": "patch-notes-december-3-2019",
     "patchName": "Deathwing Patch",
     "officialLink": "https://heroesofthestorm.com/en-us/blog/23239990",
