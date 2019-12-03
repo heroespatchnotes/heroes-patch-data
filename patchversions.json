@@ -2184,6 +2184,16 @@
     "liveBuild": "76437"
   },
   {
+    "internalId": "hotfix-patch-notes-october-2-2019",
+    "patchName": "Qhira Hotfix Patch #4",
+    "officialLink": "https://us.forums.blizzard.com/en/heroes/t/hotfix-patch-notes-october-2-2019/27063",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "48.1",
+    "fullVersion": "2.48.1.76517",
+    "liveDate": "2019-10-02",
+    "liveBuild": "76517"
+  },
+  {
     "internalId": "balance-update-notes-october-15-2019",
     "patchName": "Qhira Balance Patch #2",
     "officialLink": "https://heroesofthestorm.com/en-us/blog/23181746",
@@ -2195,7 +2205,7 @@
   },
   {
     "internalId": "hotfix-patch-notes-october-22-2019",
-    "patchName": "Qhira Hotfix Patch #4",
+    "patchName": "Qhira Hotfix Patch #5",
     "officialLink": "https://us.forums.blizzard.com/en/heroes/t/hotfix-patch-notes-october-22-2019/28109",
     "patchType": "Hotfix Patch",
     "gameVersion": "48.2",
