@@ -2212,5 +2212,18 @@
     "fullVersion": "2.48.2.76893",
     "liveDate": "2019-10-22",
     "liveBuild": "76893"
+  },
+  {
+    "internalId": "patch-notes-december-3-2019",
+    "patchName": "Deathwing Patch",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/23239990",
+    "patchType": "Patch Notes",
+    "gameVersion": "49.0",
+    "fullVersion": "2.49.0.77525",
+    "ptrOfficialLink": "https://heroesofthestorm.com/en-us/blog/23227809",
+    "ptrDate": "2019-11-25",
+    "ptrBuild": "77435",
+    "liveDate": "2019-12-03",
+    "liveBuild": "77525"
   }
 ]
