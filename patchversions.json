@@ -2245,5 +2245,15 @@
     "ptrBuild": "77435",
     "liveDate": "2019-12-03",
     "liveBuild": "77525"
+  },
+  {
+    "internalId": "hotfix-patch-notes-december-4-2019",
+    "patchName": "Deathwing Hotfix Patch #1",
+    "officialLink": "https://us.forums.blizzard.com/en/heroes/t/hotfix-patch-notes-december-4-2019/30208",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "49.0",
+    "fullVersion": "2.49.0.77548",
+    "liveDate": "2019-12-04",
+    "liveBuild": "77548"
   }
 ]
