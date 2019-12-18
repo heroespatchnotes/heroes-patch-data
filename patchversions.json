@@ -2265,5 +2265,15 @@
     "fullVersion": "2.49.1.77662",
     "liveDate": "2019-12-16",
     "liveBuild": "77662"
+  },
+  {
+    "internalId": "hotfix-patch-notes-december-17-2019",
+    "patchName": "Deathwing Hotfix Patch #2",
+    "officialLink": "https://us.forums.blizzard.com/en/heroes/t/hotfix-patch-notes-december-17-2019/31152",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "49.1",
+    "fullVersion": "2.49.1.77692",
+    "liveDate": "2019-12-17",
+    "liveBuild": "77692"
   }
 ]
