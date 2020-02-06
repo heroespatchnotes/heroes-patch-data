@@ -1,0 +1,14 @@
+{
+  "name": "heroes-patch-data",
+  "version": "1.0.0",
+  "description": "JSON file containing a list of patch objects for every patch in Heroes of the Storm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stuaroo",
+  "bugs": {
+    "url": "https://github.com/heroespatchnotes/heroes-patch-dataissues"
+  },
+  "homepage": "https://github.com/heroespatchnotes/heroes-patch-data#readme"
+}
