@@ -2285,5 +2285,15 @@
     "fullVersion": "2.49.2.77981",
     "liveDate": "2020-01-22",
     "liveBuild": "77981"
+  },
+  {
+    "internalId": "balance-update-notes-february-12-2020",
+    "patchName": "Deathwing Balance Patch #3",
+    "officialLink": "https://heroesofthestorm.com/en-us/blog/23305953",
+    "patchType": "Balance Update",
+    "gameVersion": "49.3",
+    "fullVersion": "2.49.3.78256",
+    "liveDate": "2020-02-12",
+    "liveBuild": "78256"
   }
 ]
