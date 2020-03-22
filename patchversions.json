@@ -2305,5 +2305,16 @@
     "fullVersion": "2.49.4.78679",
     "liveDate": "2020-03-11",
     "liveBuild": "78679"
+  },
+  {
+    "internalId": "hotfix-patch-notes-march-17-2020",
+    "patchName": "Deathwing Hotfix Patch #3",
+    "officialLink": null,
+    "alternateLink": "https://www.reddit.com/r/heroesofthestorm/comments/fkclgy/100_mb_patch/fkrz9t4/",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "49.4",
+    "fullVersion": "2.49.4.78725",
+    "liveDate": "2020-03-17",
+    "liveBuild": "78725"
   }
 ]
