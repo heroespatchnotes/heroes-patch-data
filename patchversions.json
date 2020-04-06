@@ -2316,5 +2316,18 @@
     "fullVersion": "2.49.4.78725",
     "liveDate": "2020-03-17",
     "liveBuild": "78725"
+  },
+  {
+    "internalId": "patch-notes-april-14-2020",
+    "patchName": "Tassadar Rework Patch",
+    "officialLink": null,
+    "patchType": "Patch Notes",
+    "gameVersion": "50.0",
+    "fullVersion": null,
+    "ptrOfficialLink": "https://news.blizzard.com/en-us/heroes-of-the-storm/23367312",
+    "ptrDate": "2020-04-06",
+    "ptrBuild": "79033",
+    "liveDate": "2019-04-14",
+    "liveBuild": null
   }
 ]
