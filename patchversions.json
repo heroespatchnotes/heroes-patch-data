@@ -2329,5 +2329,15 @@
     "ptrBuild": "79033",
     "liveDate": "2019-04-14",
     "liveBuild": "79155"
+  },
+  {
+    "internalId": "balance-update-notes-may-6-2020",
+    "patchName": "Deathwing Balance Patch #5",
+    "officialLink": "https://news.blizzard.com/en-us/heroes-of-the-storm/23411615",
+    "patchType": "Balance Update",
+    "gameVersion": "50.1",
+    "fullVersion": "2.50.1.79515",
+    "liveDate": "2020-05-06",
+    "liveBuild": "79515"
   }
 ]
