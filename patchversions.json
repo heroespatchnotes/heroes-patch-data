@@ -2349,5 +2349,18 @@
     "fullVersion": "2.50.2.80046",
     "liveDate": "2020-06-03",
     "liveBuild": "80046"
+  },
+  {
+    "internalId": "patch-notes-june-23-2020",
+    "patchName": "Mei Patch",
+    "officialLink": "https://news.blizzard.com/en-us/heroes-of-the-storm/23458854",
+    "patchType": "Patch Notes",
+    "gameVersion": "51.0",
+    "fullVersion": "2.51.0.80333",
+    "ptrOfficialLink": "https://news.blizzard.com/en-us/heroes-of-the-storm/23442720",
+    "ptrDate": "2020-06-15",
+    "ptrBuild": "80293",
+    "liveDate": "2020-06-23",
+    "liveBuild": "80333"
   }
 ]
