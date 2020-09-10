@@ -2372,5 +2372,28 @@
     "fullVersion": "2.51.1.80702",
     "liveDate": "2020-07-15",
     "liveBuild": "80702"
+  },
+  {
+    "internalId": "balance-update-notes-august-19-2020",
+    "patchName": "Mei Balance Patch #2",
+    "officialLink": "https://news.blizzard.com/en-us/heroes-of-the-storm/23499824",
+    "patchType": "Balance Update",
+    "gameVersion": "51.2",
+    "fullVersion": "2.51.2.81376",
+    "liveDate": "2020-08-19",
+    "liveBuild": "81376"
+  },
+  {
+    "internalId": "patch-notes-september-8-2020",
+    "patchName": "D.Va and Gazlowe Rework Patch",
+    "officialLink": "https://news.blizzard.com/en-us/heroes-of-the-storm/23513939",
+    "patchType": "Patch Notes",
+    "gameVersion": "52.0",
+    "fullVersion": "2.52.0.81700",
+    "ptrOfficialLink": "https://news.blizzard.com/en-us/heroes-of-the-storm/23492554",
+    "ptrDate": "2020-08-31",
+    "ptrBuild": "81571",
+    "liveDate": "2020-09-08",
+    "liveBuild": "81700"
   }
 ]
