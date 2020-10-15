@@ -2395,5 +2395,15 @@
     "ptrBuild": "81571",
     "liveDate": "2020-09-08",
     "liveBuild": "81700"
+  },
+  {
+    "internalId": "balance-update-notes-october-7-2020",
+    "patchName": "Mei Balance Patch #3",
+    "officialLink": "https://news.blizzard.com/en-us/heroes-of-the-storm/23537371",
+    "patchType": "Balance Update",
+    "gameVersion": "52.1",
+    "fullVersion": "2.52.1.82169",
+    "liveDate": "2020-10-07",
+    "liveBuild": "82169"
   }
 ]
