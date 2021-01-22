@@ -2405,5 +2405,60 @@
     "fullVersion": "2.52.1.82169",
     "liveDate": "2020-10-07",
     "liveBuild": "82169"
+  },
+  {
+    "internalId": "balance-update-notes-november-4-2020",
+    "patchName": "Mei Balance Patch #4",
+    "officialLink": "https://news.blizzard.com/en-us/heroes-of-the-storm/23557933",
+    "patchType": "Balance Update",
+    "gameVersion": "52.2",
+    "fullVersion": "2.52.2.82624",
+    "liveDate": "2020-11-04",
+    "liveBuild": "82624"
+  },
+  {
+    "internalId": "patch-notes-december-1-2020",
+    "patchName": "Hogger Patch",
+    "officialLink": "https://news.blizzard.com/en-us/heroes-of-the-storm/23572859",
+    "patchType": "Patch Notes",
+    "gameVersion": "53.0",
+    "fullVersion": "2.53.0.83004",
+    "ptrOfficialLink": "https://news.blizzard.com/en-us/heroes-of-the-storm/23574980",
+    "ptrDate": "2020-11-23",
+    "ptrBuild": null,
+    "liveDate": "2020-12-01",
+    "liveBuild": "83004"
+  },
+  {
+    "internalId": "hotfix-patch-notes-december-7-2020",
+    "patchName": "Hogger Hotfix Patch #1",
+    "officialLink": null,
+    "alternateLink": "https://www.reddit.com/r/heroesofthestorm/comments/k6v8kn/patch_253083077hogger_hotfix_patch/",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "53.0",
+    "fullVersion": "2.53.0.83086",
+    "liveDate": "2020-12-07",
+    "liveBuild": "83086"
+  },
+  {
+    "internalId": "balance-update-notes-january-19-2021",
+    "patchName": "Hogger Balance Patch #1",
+    "officialLink": "https://news.blizzard.com/en-us/heroes-of-the-storm/23591147",
+    "patchType": "Balance Update",
+    "gameVersion": "53.1",
+    "fullVersion": "2.53.1.83632",
+    "liveDate": "2021-01-19",
+    "liveBuild": "83632"
+  },
+  {
+    "internalId": "hotfix-patch-notes-january-21-2021",
+    "patchName": "Hogger Hotfix Patch #2",
+    "officialLink": null,
+    "alternateLink": "https://www.reddit.com/r/heroesofthestorm/comments/l2cja9/new_patch_available_just_had_to_restart/gk4l5fi/",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "53.1",
+    "fullVersion": "2.53.1.83716",
+    "liveDate": "2021-01-21",
+    "liveBuild": "83716"
   }
 ]
