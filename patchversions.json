@@ -2460,5 +2460,15 @@
     "fullVersion": "2.53.1.83716",
     "liveDate": "2021-01-21",
     "liveBuild": "83716"
+  },
+  {
+    "internalId": "balance-update-notes-march-2-2021",
+    "patchName": "Hogger Balance Patch #2",
+    "officialLink": "https://news.blizzard.com/en-us/heroes-of-the-storm/23623169",
+    "patchType": "Balance Update",
+    "gameVersion": "53.2",
+    "fullVersion": "2.53.2.84200",
+    "liveDate": "2021-03-02",
+    "liveBuild": "84200"
   }
 ]
