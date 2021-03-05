@@ -2470,5 +2470,16 @@
     "fullVersion": "2.53.2.84200",
     "liveDate": "2021-03-02",
     "liveBuild": "84200"
+  },
+  {
+    "internalId": "hotfix-patch-notes-march-4-2021",
+    "patchName": "Hogger Hotfix Patch #3",
+    "officialLink": null,
+    "alternateLink": "https://www.reddit.com/r/heroesofthestorm/comments/ly0mqt/patch_84249_hotfix_changes_datamined/gpq2oly/",
+    "patchType": "Hotfix Patch",
+    "gameVersion": "53.3",
+    "fullVersion": "2.53.3.84249",
+    "liveDate": "2021-03-04",
+    "liveBuild": "84249"
   }
 ]
